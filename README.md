@@ -22,8 +22,7 @@
 
 <img style="padding: 0 12px 10px 0" align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img style="padding: 0 12px 10px 0" align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img style="padding: 0 12px 10px 0" align="left" alt="Svelte" width="30px" src="https://user-images.githubusercontent.com/17464319/88974428-75551580-d26d-11ea-99a2-cda85549d589.png
-" />
+<img style="padding: 0 12px 10px 0" align="left" alt="Svelte" width="30px" src="https://user-images.githubusercontent.com/17464319/88975191-a41fbb80-d26e-11ea-98fe-3336ba7ed8cf.png" />
 <img style="padding: 0 12px 10px 0" align="left" alt="Gatsby" width="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img style="padding: 0 12px 10px 0" align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img style="padding: 0 12px 10px 0" align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
