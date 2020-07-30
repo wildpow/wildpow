@@ -2,11 +2,11 @@
 
 ## I'm a Husband, Father and Developer.
 
-- 👷‍♂️ I'm currently working for E.S.C. Mattress Center.
-- 🎒 I'm currently learning everything.
-- 🤝 I'm looking looking for new development opportunities.
-- 🥅 2021 Goals: Contribute more to Open Source projects and complete more personal projects.
-- ⚡ Fun fact: I love running, disc golf and boardgames.
+- 👷‍♂️ &nbsp;I'm currently working for E.S.C. Mattress Center.
+- 🎒 &nbsp;I'm currently learning everything.
+- 🤝 &nbsp;I'm looking looking for new development opportunities.
+- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects and complete more personal projects.
+- ⚡ &nbsp;Fun fact: I love running, disc golf and boardgames.
 
 ### Connect with me:
 
