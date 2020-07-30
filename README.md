@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-<img style="padding-right: 12px; padding-bottom: 10px;" align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img style="padding-right: 12px; padding-bottom: 10px; margin-bottom: 500px" align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img style="padding-right: 12px; padding-bottom: 10px;" align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img style="padding-right: 12px; padding-bottom: 10px;" align="left" alt="Style-Components / emotion" width="30px" src="https://user-images.githubusercontent.com/17464319/88973253-a46a8780-d26b-11ea-89ee-c02d3d1003e4.png" />
 
