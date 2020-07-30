@@ -6,7 +6,7 @@
 - 🎒 &nbsp;I'm currently learning everything.
 - 🤝 &nbsp;I'm looking looking for new development opportunities.
 - 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects and complete more personal projects.
-- ⚡ &nbsp;Fun fact: I love running, disc golf and boardgames.<br/><br/>
+- ⚡ &nbsp;Fun fact: I love running, disc golf and boardgames.<br/>
 
 ### Connect with me:
 
