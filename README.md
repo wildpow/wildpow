@@ -10,7 +10,10 @@
 
 ### Connect with me:
 
-[<img style="padding-right: 12px" align="left" alt="Aaron Wilder | Portfolio" width="42px" src="https://user-images.githubusercontent.com/17464319/88972152-f5797c00-d269-11ea-86fe-e5d8c5cf18ca.png" />][website] [<img style="padding-right: 12px" align="left" alt="Aaron Wilder | LinkedIn" width="42px" src="https://user-images.githubusercontent.com/17464319/88971318-a41cbd00-d268-11ea-802e-83d430e8d51b.png" />][linkedin][<img align="left" alt="Aaron Wilder : Twitter" width="42px" src="https://user-images.githubusercontent.com/17464319/88970888-fd382100-d267-11ea-81bd-9e8aff569e86.png" />][twitter]<br/><br/>
+<!--
+[<img style="padding-right: 12px" align="left" alt="Aaron Wilder | Portfolio" width="42px" src="https://user-images.githubusercontent.com/17464319/88972152-f5797c00-d269-11ea-86fe-e5d8c5cf18ca.png" />][website] -->
+
+[<img style="padding-right: 12px" align="left" alt="Aaron Wilder | LinkedIn" width="42px" src="https://user-images.githubusercontent.com/17464319/88971318-a41cbd00-d268-11ea-802e-83d430e8d51b.png" />][linkedin][<img align="left" alt="Aaron Wilder : Twitter" width="42px" src="https://user-images.githubusercontent.com/17464319/88970888-fd382100-d267-11ea-81bd-9e8aff569e86.png" />][twitter]<br/><br/>
 
 ### Languages and Tools:
 
